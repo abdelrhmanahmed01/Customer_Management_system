@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 28,
+      "department": "Sales"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "department": "HR"
+    }
+  ]
+}
